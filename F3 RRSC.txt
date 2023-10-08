@@ -1,0 +1,24 @@
+F3 RRSC
+luego F10
+Procesing RRSC to Reinstate original debit since client paid in full for this invoice
+Cash validation below.
+
+
+
+
+
+
+
+
+
+
+04/21/23 RI TWM 05/01/23  IRMK CASH IS VALID PER PNC ID G-0558717
+Lockbox PGH-630012 Ledger Date 04/18/2023 Amount $ 4,294.08           
+Check Num 6600029491___Batch 361 Item 35                              
+Remitter Name NOVARTIS SERVICE Payee Name IBM CORP                    
+Invoice-level Keyed Fields__Invoice Page Invoice Number Invoice Amount
+1 1 3917476 $ 2,307.20          2 1 3939289 $ 1,938.16                
+3 1 3912838 $ 48.72                                                   
+3912838 06/10/22 20  D081 TWM         48.72  04/19/23 03103008  B C   
+3917476 04/19/23 20  6011 TWM      2,307.20- 04/19/23 03103008  C     
+3939289 04/19/23 20  6011 TWM      1,938.16- 04/19/23 03103008  C     
